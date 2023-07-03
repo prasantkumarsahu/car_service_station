@@ -1,6 +1,8 @@
 # Car Service Station (Console)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white "Java")
 
+This is console based Java Application Project, which generates Bill for **Car** fixing and services.
+
 ## Languages :
 ![Java v17](https://img.shields.io/badge/Java-v17-green "Java 17")
 
@@ -40,4 +42,12 @@ Total Bill – ₹ 7000
 In addition, if the total service bill is more than ₹ 10000, a complimentary cleaning should be provided and specified
 in the bill.
 
-**Screenshots**
+**Screenshots** :
+![2023-07-03](https://github.com/prasantkumarsahu/car_service_station/assets/104138444/8a81599f-3ab0-4283-9621-36a378c4898d)
+
+**Videos** :
+
+
+https://github.com/prasantkumarsahu/car_service_station/assets/104138444/4cc94b57-a155-4a66-88d8-83a54e7de232
+
+
